@@ -1,13 +1,13 @@
 
 <?php
-$servername = "216.10.249.126";
-$username = "ncetmons_ark";
-$password = "ARKark@007";
-$dbname = "ncetmons_monsterminds";
+// $servername = "216.10.249.126";
+// $username = "ncetmons_ark";
+// $password = "";
+// $dbname = "ncetmons_monsterminds";
 
 //$servername = "103.53.41.210";
 //$username = "ncetmmhh_ark";
-//$password = "13774";
+//$password = "";
 //$dbname = "ncetmmhh_monsterminds";
 
 
